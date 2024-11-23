@@ -19,6 +19,7 @@ a{
     display: flex;
     align-items: center;
     justify-content: space-evenly;
+    object-fit: cover;
 }
 
 .nav-logo{
